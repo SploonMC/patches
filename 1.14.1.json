@@ -6,6 +6,7 @@
     "CraftBukkit": "fcb9f90bf320b4b74192d4e37ab1554cc286f4d5",
     "Spigot": "03bd4b031ce87ea24a00e0ebe52560cdb4d56220"
   },
-  "patch_hash": "5f41b16cc54ec613d5bf8123a52566c9c75d41e7",
-  "patched_jar_hash": "fb71d9fe2470914a2a53f6c617d0360b0dc1eb08"
+  "patch_hash": "2007699416f1e1a979e3410333fcc7300d8690e6",
+  "vanilla_jar_hash": "ed76d597a44c5266be2a7fcd77a8270f1f0bc118",
+  "patched_jar_hash": "a4e6872032d7e3b3fb8d207d42eb756f508bbd04"
 }

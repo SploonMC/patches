@@ -1,0 +1,12 @@
+{
+  "patch_file": "1.18.patch",
+  "commit_hashes": {
+    "BuildData": "059e48d0b4666138c4a8330ee38310d74824a848",
+    "Bukkit": "ffd8b28939b4ec84855f8a10c93463ec113def13",
+    "CraftBukkit": "4f5d59a4d6e781168e3d78183443a068d4b01705",
+    "Spigot": "dbf493829eb4bf37ff6492e725058424138cc651"
+  },
+  "patch_hash": "d8ec948679a33fbf6f5f4f1bec1ce1a5f6cd9c50",
+  "vanilla_jar_hash": "4be5de125de1aa9f151de940c4abf478fda5321e",
+  "patched_jar_hash": "741f0b9a376469cbfb8323be014af3b107a242cb"
+}

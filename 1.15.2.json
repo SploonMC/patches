@@ -1,0 +1,11 @@
+{
+  "patch_file": "1.15.2.patch",
+  "commit_hashes": {
+    "BuildData": "455d45a4244894335cd07451bdda79ccd380aff6",
+    "Bukkit": "149527f7b10f992ef22186e85f13ded96ab76a63",
+    "CraftBukkit": "8731c97d10f931c1f05a7ff464181b8c39156cd1",
+    "Spigot": "a99063f77142a462546e31413de6c6190e913f11"
+  },
+  "patch_hash": "642c6b26da379ce7fa1e0067c543cc81111ae7b2",
+  "patched_jar_hash": "d8dae651a568066dd8edeb179d5368309ebe25c1"
+}

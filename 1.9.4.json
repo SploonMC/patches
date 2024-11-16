@@ -1,0 +1,12 @@
+{
+  "patch_file": "1.9.4.patch",
+  "commit_hashes": {
+    "BuildData": "9b100f8a6f0d86b5fd5f22f65dd6dd9eba6547d3",
+    "Bukkit": "c5bf6bc614bfd1e119e7fc067ff30cd8e8221cb2",
+    "CraftBukkit": "e1d3516bef9fb294689c3a859b828af54d0f883e",
+    "Spigot": "c6871e2ccf10716e9b41deb9d3bf62426dd7314b"
+  },
+  "patch_hash": "ad45241bd882e268973c9d30f36bd00fd8ca09af",
+  "vanilla_jar_hash": "edbb7b1758af33d365bf835eb9d13de005b1e274",
+  "patched_jar_hash": "906a33b20967a316c544089ea41f5d4ff19be46d"
+}

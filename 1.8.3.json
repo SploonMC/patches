@@ -1,0 +1,13 @@
+{
+  "patch_file": "1.8.3.patch",
+  "commit_hashes": {
+    "BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+    "Bukkit": "8d91199e35c782e94c4dd41fdc8140f84e048ef1",
+    "CraftBukkit": "0a645a2726f031cc2d2c2a801574021283cf50ee",
+    "Spigot": "870264a3f84d88d6d50e9e71849a50ebac0d9ddd"
+  },
+  "patch_hash": "876fd22eb5c9cb5acf47fd77620509090281a09b",
+  "vanilla_jar_hash": "163ba351cb86f6390450bb2a67fafeb92b6c0f2f",
+  "patched_jar_hash": "11fc88058bc6467d402cf457e33a048f3c4dec5c",
+  "vanilla_download_url": "https://piston-data.mojang.com/v1/objects/163ba351cb86f6390450bb2a67fafeb92b6c0f2f/server.jar"
+}

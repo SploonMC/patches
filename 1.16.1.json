@@ -1,0 +1,13 @@
+{
+  "patch_file": "1.16.1.patch",
+  "commit_hashes": {
+    "BuildData": "be3371e67489b5a2293306e24420793106baadc1",
+    "Bukkit": "eeb1042f1ac356cc989dd1c4e35b37ee0ab93891",
+    "CraftBukkit": "4b9bc9daa520b5a75f5782b296e7ce2baa2b3653",
+    "Spigot": "9639cf78974513349ec5d78f22d27365bebd0d0a"
+  },
+  "patch_hash": "b825fc4a5f9499f356fec2b519958624a484bb59",
+  "vanilla_jar_hash": "a412fd69db1f81db3f511c1463fd304675244077",
+  "patched_jar_hash": "1560205de0de518b923935d6f2bb2b262d041228",
+  "vanilla_download_url": "https://launcher.mojang.com/v1/objects/a412fd69db1f81db3f511c1463fd304675244077/server.jar"
+}

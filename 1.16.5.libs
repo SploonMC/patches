@@ -1,0 +1,4 @@
+org.spigotmc:spigot-api:1.16.5-R0.1-SNAPSHOT
+jline:jline:2.12.1
+org.apache.logging.log4j:log4j-iostreams:2.8.1
+org.ow2.asm:asm:9.1

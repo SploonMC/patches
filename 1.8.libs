@@ -1,0 +1,6 @@
+org.spigotmc:spigot-api:1.8-R0.1-SNAPSHOT
+net.sf.jopt-simple:jopt-simple:3.2
+jline:jline:2.12
+org.xerial:sqlite-jdbc:3.7.2
+mysql:mysql-connector-java:5.1.14
+com.google.code.gson:gson:2.2.4

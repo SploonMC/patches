@@ -6,8 +6,8 @@
     "CraftBukkit": "4cb32587ac1ff543b2efa9498f8d0d358cb90c12",
     "Spigot": "e0001040ae8a1ccbae23ed754206d11759e87c43"
   },
-  "patch_hash": "fb6a3f00f6b4d9f81df4d7478f95569047863cd2",
+  "patch_hash": "34087afa3d5ddc1571f2d46814d4674a7692a52b",
   "vanilla_jar_hash": "2b95cc7b136017e064c46d04a5825fe4cfa1be30",
-  "patched_jar_hash": "f8e8cae226dc6c6c50673f227590ee3d923e123a",
+  "patched_jar_hash": "62694d9e25df0d7f9f25dda9dc45ae0daeac05b9",
   "vanilla_download_url": "https://piston-data.mojang.com/v1/objects/2b95cc7b136017e064c46d04a5825fe4cfa1be30/server.jar"
 }

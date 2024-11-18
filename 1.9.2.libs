@@ -1,0 +1,6 @@
+org.spigotmc:spigot-api:1.9.2-R0.1-SNAPSHOT
+net.sf.jopt-simple:jopt-simple:4.9
+jline:jline:2.12
+org.xerial:sqlite-jdbc:3.7.2
+mysql:mysql-connector-java:5.1.37
+net.sf.trove4j:trove4j:3.0.3

@@ -1,0 +1,17 @@
+org.spigotmc:spigot-api:1.18.1-R0.1-SNAPSHOT
+jline:jline:2.12.1
+org.apache.logging.log4j:log4j-iostreams:2.14.1
+org.ow2.asm:asm:9.2
+com.github.oshi:oshi-core:5.8.2
+com.mojang:authlib:3.2.38
+com.mojang:brigadier:1.0.18
+com.mojang:datafixerupper:4.0.26
+com.mojang:javabridge:1.2.24
+commons-io:commons-io:2.11.0
+io.netty:netty-all:4.1.68.Final
+it.unimi.dsi:fastutil:8.5.6
+net.sf.jopt-simple:jopt-simple:5.0.4
+org.apache.commons:commons-lang3:3.12.0
+org.apache.logging.log4j:log4j-core:2.14.1
+org.apache.logging.log4j:log4j-slf4j18-impl:2.14.1
+org.slf4j:slf4j-api:1.8.0-beta4

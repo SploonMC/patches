@@ -4,10 +4,10 @@
     "BuildData": "702e1a0a5072b2c4082371d5228cb30525687efc",
     "Bukkit": "4ece6d0e2f14bb5717e7472011785fda5d9fd5a1",
     "CraftBukkit": "1ffaef14e3e44019172de467345f16da18049460",
-    "Spigot": "aa90801525bbc5ef2482908ab50b379666a2c0cf"
+    "Spigot": "a10f82e860ec43ccd667776a7107e9869fc0a273"
   },
-  "patch_hash": "3f21fcaf5b01f5c7d3e38ef7b6de10f97fe59bf8",
+  "patch_hash": "94d1b92f9a40da22efbff96fefe356530fc622f6",
   "vanilla_jar_hash": "85250e2115b1c127e80b58b85d11ade048b04190",
-  "patched_jar_hash": "84de8d9bbc281fb011bd44ae3a6a53b57054d748",
+  "patched_jar_hash": "8b00b5752874a9c6f0e69ee9ecf577ebe9b82111",
   "vanilla_download_url": "https://piston-data.mojang.com/v1/objects/e6ec2f64e6080b9b5d9b471b291c33cc7f509733/server.jar"
 }

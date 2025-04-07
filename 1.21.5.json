@@ -3,11 +3,11 @@
   "commit_hashes": {
     "BuildData": "9b48cd40193ae9f0cebbadce39052a242485eb4c",
     "Bukkit": "47480cd07c0957a94b220f3087b851594b063e54",
-    "CraftBukkit": "ba251cc06809f40ad25535b3aa6ffa6c5e65e6ed",
+    "CraftBukkit": "c6c8165aa0d5679b9b015b209c1645a222f8c3a6",
     "Spigot": "e339edc403d1958261975709598b89fa832a25cf"
   },
-  "patch_hash": "51c7ccff72066b442e67763feb836bfbcf88f388",
+  "patch_hash": "53c0d7b096386dc044cae4942bf3f658c7bc78c0",
   "vanilla_jar_hash": "85250e2115b1c127e80b58b85d11ade048b04190",
-  "patched_jar_hash": "b2ce876093899f14c0db2900b62da2689e7ffe11",
+  "patched_jar_hash": "989c724cd87dad5f8e43b2ed1952c7e5bbbbcc9e",
   "vanilla_download_url": "https://piston-data.mojang.com/v1/objects/e6ec2f64e6080b9b5d9b471b291c33cc7f509733/server.jar"
 }

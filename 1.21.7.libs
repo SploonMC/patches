@@ -1,5 +1,5 @@
 org.spigotmc:spigot-api:1.21.7-R0.1-SNAPSHOT
-jline:jline:2.12.1
+org.jline:jline:3.30.4
 org.apache.logging.log4j:log4j-iostreams:2.24.1
 org.ow2.asm:asm-commons:9.7.1
 com.fasterxml.jackson.core:jackson-annotations:2.13.4

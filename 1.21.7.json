@@ -1,13 +1,13 @@
 {
   "patch_file": "1.21.7.patch",
   "commit_hashes": {
-    "BuildData": "436eac9815c211be1a2a6ca0702615f995e81c44",
-    "Bukkit": "fc3da16b94dd5041c79b22a5904bcda112086404",
-    "CraftBukkit": "2ed8fab2ee65d090778f08df7f0015f5b3298645",
-    "Spigot": "c8edd95326f2cbae23bb228043ccc2323356e439"
+    "BuildData": "62f9b85b300b6bbf1c559e379567699a6e281cec",
+    "Bukkit": "8271394e249e73d9c7cd3c9ac34ce4536f1db982",
+    "CraftBukkit": "d116f42501f1a3d9adb5f97cc72cea515059eeb8",
+    "Spigot": "739dbf379bcc86632f5a74de17711eb04b46f304"
   },
-  "patch_hash": "42310e8e7203feea948c738456db8097fc516f35",
-  "vanilla_jar_hash": "f77e698164938b4bedf5329fa5a68afa86dafd4e",
-  "patched_jar_hash": "908bcfbe6a5e5f171bab5df373c8401edb0ba6c6",
-  "vanilla_download_url": "https://piston-data.mojang.com/v1/objects/05e4b48fbc01f0385adb74bcff9751d34552486c/server.jar"
+  "patch_hash": "bf07c4b823d5fb06a4299ccf3be8f36879bf793c",
+  "vanilla_jar_hash": "85cba595f2d9c523315a53fa7bffbde26a047758",
+  "patched_jar_hash": "653a62b43cb5428f47a08a6e28d89497a997df2c",
+  "vanilla_download_url": "https://piston-data.mojang.com/v1/objects/6bce4ef400e4efaa63a13d5e6f6b500be969ef81/server.jar"
 }

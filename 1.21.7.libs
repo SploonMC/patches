@@ -1,4 +1,4 @@
-org.spigotmc:spigot-api:1.21.7-R0.1-SNAPSHOT
+org.spigotmc:spigot-api:1.21.8-R0.1-SNAPSHOT
 org.jline:jline:3.30.4
 org.apache.logging.log4j:log4j-iostreams:2.24.1
 org.ow2.asm:asm-commons:9.7.1
